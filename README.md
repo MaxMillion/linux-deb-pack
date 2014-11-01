@@ -1,4 +1,6 @@
 linux-deb-pack
 ==============
 
-Simple script to generate a deb package
+http://madebits.github.io/#r/linux-deb-pack.md
+
+
